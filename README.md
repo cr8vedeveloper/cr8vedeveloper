@@ -12,8 +12,8 @@
 - 🌱 Mysql, MongoDB, Postgresql
 - 🌱 Other php frameworks (Wordpress etc..)
 - 🌱 Other modern javascript frameworks
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DclK2EHQlvfs77U8PzeW0xdRflW1pnE6/view?usp=sharing)
-- 😄 Checkout my Portfolio [Portfolio](https://sushants-portfolio.netlify.app/)
+- 📄 Know about my experiences [Resume](https://cr8vedeveloper.github.io)
+- 😄 Checkout my Portfolio [Portfolio](https://cr8vedeveloper.github.io/)
 
 <h3>Connect with me:</h3>
 
