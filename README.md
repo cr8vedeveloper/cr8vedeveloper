@@ -17,7 +17,9 @@
 
 <h3>Connect with me:</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cr8vedeveloper&theme=algolia&column=7"></p>
-<img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=cr8vedeveloper&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+<a>
+  <img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=cr8vedeveloper&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr8vedeveloper&layout=compact&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+</a>
 
 
