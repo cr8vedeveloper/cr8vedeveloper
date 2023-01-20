@@ -12,8 +12,8 @@
 - 🌱 Mysql, MongoDB, Postgresql
 - 🌱 Other php frameworks (Wordpress etc..)
 - 🌱 Other modern javascript frameworks
-- 📄 Know about my experiences [Resume](https://cr8vedeveloper.github.io)
-- 😄 Checkout my Portfolio [Portfolio](https://cr8vedeveloper.github.io/)
+- 📄 Know about my experiences [Resume]()
+- 😄 Checkout my Portfolio [Portfolio]()
 
 <h3>Connect with me:</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cr8vedeveloper&theme=algolia&column=7"></p>
